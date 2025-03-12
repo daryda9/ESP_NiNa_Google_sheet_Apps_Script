@@ -1,7 +1,7 @@
 # ESP_NiNa_Google_sheet_Apps_Script
 Codice base per lo scambio di messaggi con google sheets tramite Apps Script
 
-Disclaimer: Versione Beta
+#Disclaimer: Versione Beta
 
 Questo codice è attualmente in fase beta: è funzionante, ma necessita di ulteriori ottimizzazioni. Potrebbero esserci bug o inefficienze, quindi qualsiasi feedback o contributo è benvenuto.
 
@@ -21,4 +21,11 @@ Dispositivi testati:
 
 🔍 Nota importante:
 
-Anche se il codice è stato testato su questi dispositivi, potrebbero esserci differenze a seconda della configurazione hardware e software. Se riscontri problemi o vuoi contribuire al miglioramento del progetto, sentiti libero di aprire una issue o inviare una pull request.
+- Anche se il codice è stato testato su questi dispositivi, potrebbero esserci differenze a seconda della configurazione hardware e software. Se riscontri problemi o vuoi contribuire al miglioramento del progetto, sentiti libero di aprire una issue o inviare una pull request.
+
+
+📌 Riconoscimenti
+
+Il codice utilizzato per Arduino MKR WiFi 1010 in seguito adattato, è stato preso dalla seguente repository: 
+https://github.com/zmaker/arduino_cookbook/tree/master/533-GoogleSheetDataLog-p2/GooleSheetLog 
+Un ringraziamento agli autori originali per il loro contributo.
