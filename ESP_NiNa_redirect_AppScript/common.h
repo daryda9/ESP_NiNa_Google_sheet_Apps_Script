@@ -2,4 +2,4 @@
 #define SECRET_PASS "your-pass"
 
 // Google script Web_App_URL.
-const String Web_App_URL = "url-deployment";
+#define  Web_App_URL "url-deployment"
